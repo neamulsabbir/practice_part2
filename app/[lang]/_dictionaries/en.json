@@ -1,0 +1,215 @@
+{
+  "headers": {
+    "logo": "en",
+    "search": "Search",
+    "wishlist": "Wishlist",
+    "cart": "Cart"
+  },
+
+  "navBar": {
+    "home": "Home",
+    "shop": "Shop",
+    "about": "About us",
+    "contact": "Contact Us",
+    "login": "Login",
+    "logout": "Logout",
+    "category": "All Categories"
+  },
+
+  "home": {
+    "hero": {
+      "title": "Best Collection For Home Decoration",
+      "subTitle": "Transform Your Home with Timeless Elegance, Unmatched Comfort, Innovative Design, and Exceptional Craftsmanship",
+      "button": "Shop Now"
+    },
+    "feature": {
+      "shipping": "Free Shipping",
+      "order": "Order over $200",
+      "money": "Money Returns",
+      "ret": "30 days money returns",
+      "support": "24/7 Support",
+      "customer": "Customer support"
+    },
+
+    "category": "SHOP BY CATEGORY",
+    "newArrival": "TOP NEW ARRIVAL",
+    "trend": "TRENDING PRODUCTS"
+  },
+  "product": {
+    "addToCart": "Add To Cart",
+    "showCart": "Show Cart",
+    "wishlistTitleAdd": "add to wishlist",
+    "wishlistTitleRemove": "remove from wishlist",
+    "viewProduct": "view product",
+    "stockOut": "Out of Stock"
+  },
+  "productDetails": {
+    "brand": "Brand",
+    "category": "Category",
+    "sku": "SKU",
+    "productDetails": "Product Details",
+    "relatedProducts": "Related Products",
+    "product": "Product",
+    "availability": "Availability"
+  },
+  "sidebar": {
+    "categories": "Categories",
+    "price": "Price",
+    "filter": "Filter"
+  },
+  "shop": {
+    "limit": "Items per page"
+  },
+  "profile": {
+    "personal": "Personal Profile",
+    "shipping": "Shipping Address",
+    "billing": "Billing Address",
+    "edit": "Edit"
+  },
+  "personal": {
+    "title": "Update your profile",
+    "name": "Full Name",
+    "email": "Email Address",
+    "phone": "Phone Number",
+    "update": "Update",
+    "image": "Drop image here",
+    "choose": "Choose profile photo",
+    "empty": "You can't empty submit",
+    "phoneInvalid": "This Phone Number is invalid"
+  },
+  "wishlist": {
+    "availability": "Availability",
+    "deleteMessage": "Are You Sure Delete This Item",
+    "no": "No, cancel",
+    "yes": "Yes",
+    "empty": "No wishlist data available",
+    "wrong": "Something went wrong"
+  },
+  "cart": {
+    "empty": "No carts data available",
+    "checkout": "Checkout",
+    "deleteMessage": "Are You Sure Delete This Item"
+  },
+
+  "deleteModal": {
+    "no": "No, cancel",
+    "yes": "Yes",
+    "close": "Close modal"
+  },
+  "currency": "$",
+  "stock": {
+    "rightNow": "The stock has just run out"
+  },
+  "auth": {
+    "login": "Please login first"
+  },
+  "checkout": {
+    "labels": {
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "phone": "Phone Number",
+      "email": "Email Address",
+      "city": "City",
+      "accountNumber": "Account Number",
+      "transactionId": "Transaction ID",
+      "shippingAddress": "Shipping Address"
+    },
+    "errorMessages": {
+      "firstName": "First name is required",
+      "lastName": "Last name is required",
+      "phone": "Phone number is required",
+      "email": "Email is required",
+      "city": "City is required",
+      "accountNumber": "Account Number is required",
+      "transactionId": "Transaction ID is required"
+    },
+    "orderSummary": {
+      "title": "Order Summary",
+      "loadingText": "Loading",
+      "orderBtn": "Place order",
+      "orderProductLists": {
+        "noProductsText": "No found",
+        "subtotalLabel": "Subtotal",
+        "shippingLabel": "Shipping",
+        "freeShippingText": "Free",
+        "totalLabel": "Total"
+      },
+      "agreementInput": {
+        "label": "I agree to the",
+        "linkText": "terms & conditions",
+        "errorMessage": "You must accept the terms and conditions"
+      }
+    }
+  },
+  "confirmOrder": {
+    "orderNumber": "Order #",
+    "productList": {
+      "title": "Product List",
+      "notFound": "Not Found Product"
+    },
+    "summary": {
+      "title": "Summary",
+      "subtotal": "Subtotal",
+      "discount": "Discount",
+      "shipping": "Shipping",
+      "total": "Total"
+    },
+    "shipping": {
+      "title": "Shipping",
+      "carrierDetails": "View Carrier Details",
+      "deliveryWith24Hours": "Delivery with 24 Hours"
+    },
+    "customer": {
+      "title": "Customer",
+      "previousOrders": "Previous Orders",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "shippingAddress": "Shipping Address",
+      "billingAddress": "Billing Address"
+    },
+    "downloadBtn": "Download",
+    "invoice": {
+      "company": {
+        "name": "LWS-KART PLC",
+        "email": "sales@lws-kart.com",
+        "phone": "+8801402200698",
+        "vat": "8657671212"
+      },
+      "billTo": "Bill to :",
+      "invoice": {
+        "number": "Invoice number:",
+        "date": "Invoice date:"
+      },
+      "table": {
+        "headers": {
+          "items": "Items",
+          "quantity": "Quantity",
+          "price": "Price",
+          "amount": "Amount",
+          "subtotal": "Subtotal",
+          "tax": "Tax",
+          "discount": "Discount",
+          "total": "Total"
+        },
+        "footer": "Thank you for being with us!"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© LWSKart - All Right Reserved",
+    "text": "Transform Your Home with Timeless Elegance and Unmatched Comfort",
+    "solution": "SOLUTIONS",
+    "support": "SUPPORT",
+    "links": "USEFUL LINKS",
+    "company": "COMPANY",
+    "marketing": "Marketing",
+    "analytics": "Analytics",
+    "commerce": "Commerce",
+    "insights": "Insights",
+    "pricing": "Pricing",
+    "documentation": "Documentation",
+    "guides": "Guides",
+    "api": "API Status"
+  }
+}

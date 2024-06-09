@@ -1,0 +1,442 @@
+[
+  {
+    "_id": "664772a5b37f5b505a42be9d",
+    "name": "Memory Foam Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 499.99,
+    "discount_price": 449.99,
+    "reviewsNumber": 50,
+    "ratings": 4.9,
+    "availability": true,
+    "brand": "Cloud Comfort",
+    "category": "mattress",
+    "details": {
+      "size": "Queen",
+      "material": "Memory Foam",
+      "thickness": "12 inches",
+      "firmness": "Medium"
+    },
+    "description": "Experience ultimate comfort and support with our premium memory foam mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 20,
+    "soldCounts": 15
+  },
+  {
+    "_id": "664772a5b37f5b505a42be9e",
+    "name": "Hybrid Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 699.99,
+    "discount_price": 599.99,
+    "reviewsNumber": 40,
+    "ratings": 4.8,
+    "availability": true,
+    "brand": "DreamSlumber",
+    "category": "mattress",
+    "details": {
+      "size": "King",
+      "material": "Memory Foam and Pocket Coils",
+      "thickness": "14 inches",
+      "firmness": "Medium-Firm"
+    },
+    "description": "Indulge in the perfect balance of comfort and support with our hybrid mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 15,
+    "soldCounts": 10
+  },
+  {
+    "_id": "664772a5b37f5b505a42be9f",
+    "name": "Innerspring Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 399.99,
+    "discount_price": 349.99,
+    "reviewsNumber": 35,
+    "ratings": 4.7,
+    "availability": true,
+    "brand": "SleepWell",
+    "category": "mattress",
+    "details": {
+      "size": "Full",
+      "material": "Innerspring",
+      "thickness": "10 inches",
+      "firmness": "Medium-Soft"
+    },
+    "description": "Get the support you need for a restful night's sleep with our innerspring mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 25,
+    "soldCounts": 20
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea0",
+    "name": "Latex Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 799.99,
+    "discount_price": 699.99,
+    "reviewsNumber": 30,
+    "ratings": 4.6,
+    "availability": true,
+    "brand": "Natural Sleep",
+    "category": "mattress",
+    "details": {
+      "size": "California King",
+      "material": "Latex",
+      "thickness": "12 inches",
+      "firmness": "Medium-Firm"
+    },
+    "description": "Experience superior support and breathability with our natural latex mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 18,
+    "soldCounts": 12
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea1",
+    "name": "Pillow Top Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 599.99,
+    "discount_price": 549.99,
+    "reviewsNumber": 25,
+    "ratings": 4.7,
+    "availability": true,
+    "brand": "Luxury Rest",
+    "category": "mattress",
+    "details": {
+      "size": "Twin XL",
+      "material": "Memory Foam and Pillow Top",
+      "thickness": "14 inches",
+      "firmness": "Plush"
+    },
+    "description": "Sink into plush comfort and support with our pillow top mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 30,
+    "soldCounts": 25
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea2",
+    "name": "Gel Memory Foam Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 599.99,
+    "discount_price": 549.99,
+    "reviewsNumber": 20,
+    "ratings": 4.6,
+    "availability": true,
+    "brand": "CoolSleep",
+    "category": "mattress",
+    "details": {
+      "size": "Queen",
+      "material": "Gel Memory Foam",
+      "thickness": "12 inches",
+      "firmness": "Medium-Firm"
+    },
+    "description": "Stay cool and comfortable all night with our gel memory foam mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 25,
+    "soldCounts": 20
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea3",
+    "name": "Orthopedic Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 699.99,
+    "discount_price": 649.99,
+    "reviewsNumber": 20,
+    "ratings": 4.6,
+    "availability": true,
+    "brand": "OrthoSleep",
+    "category": "mattress",
+    "details": {
+      "size": "King",
+      "material": "Orthopedic Foam",
+      "thickness": "10 inches",
+      "firmness": "Firm"
+    },
+    "description": "Experience superior support and alleviate pressure points with our orthopedic mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 20,
+    "soldCounts": 15
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea4",
+    "name": "Firm Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 349.99,
+    "discount_price": 299.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "Sturdy Sleep",
+    "category": "mattress",
+    "details": {
+      "size": "Full",
+      "material": "High-Density Foam",
+      "thickness": "8 inches",
+      "firmness": "Firm"
+    },
+    "description": "Get the support you need for a restful night's sleep with our firm mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 22,
+    "soldCounts": 17
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea5",
+    "name": "Euro Top Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 499.99,
+    "discount_price": 449.99,
+    "reviewsNumber": 20,
+    "ratings": 4.6,
+    "availability": true,
+    "brand": "EuroComfort",
+    "category": "mattress",
+    "details": {
+      "size": "Queen",
+      "material": "Memory Foam and Euro Top",
+      "thickness": "12 inches",
+      "firmness": "Medium-Firm"
+    },
+    "description": "Experience luxurious comfort and support with our euro top mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 20,
+    "soldCounts": 15
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea6",
+    "name": "Plush Mattress",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 449.99,
+    "discount_price": 399.99,
+    "reviewsNumber": 20,
+    "ratings": 4.6,
+    "availability": true,
+    "brand": "SoftDreams",
+    "category": "mattress",
+    "details": {
+      "size": "Twin",
+      "material": "Memory Foam",
+      "thickness": "10 inches",
+      "firmness": "Plush"
+    },
+    "description": "Indulge in plush comfort and support with our soft mattress.",
+    "colors": ["#FFFFFF"],
+    "sku": 20,
+    "soldCounts": 15
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea7",
+    "name": "Waterproof Mattress Protector",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 29.99,
+    "discount_price": 24.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "Guardian Bedding",
+    "category": "mattress",
+    "details": {
+      "size": "Queen",
+      "material": "Polyester",
+      "thickness": "Fits up to 14 inches deep"
+    },
+    "description": "Protect your mattress from spills, stains, and allergens with our waterproof mattress protector.",
+    "colors": ["#FFFFFF"],
+    "sku": 18,
+    "soldCounts": 12
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea8",
+    "name": "Fitted Sheet Set",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 39.99,
+    "discount_price": 34.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "Dreamy Nights",
+    "category": "mattress",
+    "details": {
+      "size": "Queen",
+      "material": "Cotton",
+      "threadCount": 400,
+      "deepPocket": "Fits mattresses up to 18 inches deep",
+      "setCount": 4
+    },
+    "description": "Experience luxurious comfort with our high-quality fitted sheet set.",
+    "colors": ["#FFFFFF"],
+    "sku": 20,
+    "soldCounts": 15
+  },
+  {
+    "_id": "664772a5b37f5b505a42bea9",
+    "name": "Mattress Topper",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 99.99,
+    "discount_price": 79.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "Comfort Plus",
+    "category": "mattress",
+    "details": {
+      "size": "Full",
+      "material": "Memory Foam",
+      "thickness": "3 inches"
+    },
+    "description": "Enhance your mattress's comfort and support with our premium mattress topper.",
+    "colors": ["#FFFFFF"],
+    "sku": 18,
+    "soldCounts": 12
+  },
+  {
+    "_id": "664772a5b37f5b505a42beaa",
+    "name": "Mattress Foundation",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 149.99,
+    "discount_price": 129.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "Steady Support",
+    "category": "mattress",
+    "details": {
+      "size": "Queen",
+      "material": "Metal",
+      "height": "14 inches",
+      "assembly": "Easy assembly, no tools required"
+    },
+    "description": "Provide sturdy support for your mattress with our durable mattress foundation.",
+    "colors": ["#FFFFFF"],
+    "sku": 20,
+    "soldCounts": 15
+  },
+  {
+    "_id": "664772a5b37f5b505a42beab",
+    "name": "Mattress Bag",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 19.99,
+    "discount_price": 14.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "Protect-A-Bed",
+    "category": "mattress",
+    "details": {
+      "size": "Queen",
+      "material": "Polyethylene",
+      "thickness": "4 mil",
+      "closure": "Zipper closure"
+    },
+    "description": "Protect your mattress during storage or moving with our heavy-duty mattress bag.",
+    "colors": ["#FFFFFF"],
+    "sku": 18,
+    "soldCounts": 12
+  },
+  {
+    "_id": "664772a5b37f5b505a42beac",
+    "name": "Mattress Encasement",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 59.99,
+    "discount_price": 49.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "SafeGuard",
+    "category": "mattress",
+    "details": {
+      "size": "King",
+      "material": "Polyester",
+      "thickness": "Fits mattresses up to 18 inches deep",
+      "closure": "Zippered closure"
+    },
+    "description": "Protect your mattress from bed bugs, dust mites, and allergens with our mattress encasement.",
+    "colors": ["#FFFFFF"],
+    "sku": 18,
+    "soldCounts": 12
+  },
+  {
+    "_id": "664772a5b37f5b505a42bead",
+    "name": "Mattress Cleaner Spray",
+    "image": [
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress",
+      "https://source.unsplash.com/random/360x265?mattress"
+    ],
+    "price": 14.99,
+    "discount_price": 12.99,
+    "reviewsNumber": 15,
+    "ratings": 4.5,
+    "availability": true,
+    "brand": "CleanSleep",
+    "category": "mattress",
+    "details": {
+      "size": "16 oz",
+      "scent": "Lavender",
+      "use": "Spray directly onto mattress surface, no rinsing required"
+    },
+    "description": "Keep your mattress clean and fresh with our mattress cleaner spray.",
+    "colors": ["#FFFFFF"],
+    "sku": 18,
+    "soldCounts": 12
+  }
+]

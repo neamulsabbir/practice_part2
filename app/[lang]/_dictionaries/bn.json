@@ -1,0 +1,215 @@
+{
+  "headers": {
+    "logo": "bn",
+    "search": "অনুসন্ধান করুন",
+    "wishlist": "ইচ্ছেতালিকা",
+    "cart": "কার্ট",
+    "account": "অ্যাকাউন্ট"
+  },
+
+  "navBar": {
+    "home": "প্রথম পৃষ্ঠা",
+    "shop": "দোকান",
+    "about": "আমাদের সম্পর্কে",
+    "contact": "যোগাযোগ করুন",
+    "login": "প্রবেশ করুন",
+    "logout": "প্রস্থান করুন",
+    "category": "সমস্ত বিভাগ"
+  },
+
+  "home": {
+    "hero": {
+      "title": "বাড়ির সজ্জার জন্য সেরা সংগ্রহ",
+      "subTitle": "অতুলনীয় আরাম, উদ্ভাবনী ডিজাইন এবং অসাধারণ দক্ষতার সাথে আপনার বাড়িকে রূপান্তর করুন",
+      "button": "এখনই কিনুন"
+    },
+    "feature": {
+      "shipping": "বিনামূল্যে শিপিং",
+      "order": "$200 এর উপরে অর্ডার করুন",
+      "money": "টাকা ফেরত",
+      "ret": "৩০ দিনের টাকা ফেরত",
+      "support": "২৪/৭ সহায়তা",
+      "customer": "গ্রাহক সহায়তা"
+    },
+
+    "category": "বিভাগ অনুযায়ী কেনাকাটা করুন",
+    "newArrival": "শীর্ষ নতুন আগমন",
+    "trend": "ট্রেন্ডিং পণ্য"
+  },
+  "product": {
+    "addToCart": "কার্টে যোগ করুন",
+    "wishlistTitleAdd": "ইচ্ছেতালিকায় যোগ করুন",
+    "wishlistTitleRemove": "ইচ্ছেতালিকা থেকে সরান",
+    "viewProduct": "পণ্য দেখুন",
+    "stockOut": "স্টক আউট",
+    "showCart": "কার্ট দেখুন"
+  },
+  "productDetails": {
+    "brand": "ব্র্যান্ড",
+    "category": "বিভাগ",
+    "sku": "এসকেইউ",
+    "productDetails": "পণ্যের বিবরণ",
+    "relatedProducts": "সংশ্লিষ্ট পণ্যসমূহ",
+    "product": "পণ্য",
+    "availability": "উপলব্ধতা"
+  },
+  "sidebar": {
+    "categories": "বিভাগসমূহ",
+    "price": "দাম",
+    "filter": "ফিল্টার"
+  },
+  "shop": {
+    "limit": "পৃষ্ঠা প্রতি আইটেম"
+  },
+  "profile": {
+    "personal": "ব্যক্তিগত তথ্য",
+    "shipping": "প্রেরণের ঠিকানা",
+    "billing": "বিলিং ঠিকানা",
+    "edit": "সম্পাদনা"
+  },
+  "personal": {
+    "title": "আপনার প্রোফাইল আপডেট করুন",
+    "name": "পুরো নাম",
+    "email": "ইমেইল ঠিকানা",
+    "phone": "ফোন নম্বর",
+    "update": "আপডেট করুন",
+    "image": "এখানে ইমেজ পরিমাণ ছেড়ে দিন",
+    "choose": "প্রোফাইল ছবি নির্বাচন করুন",
+    "empty": "আপনি ফাঁকা ফর্ম সাবমিট করতে পারবেন না",
+    "phoneInvalid": "এই ফোন নম্বরটি অবৈধ"
+  },
+  "wishlist": {
+    "availability": "উপলব্ধিতা",
+    "deleteMessage": "আপনি কি নিশ্চিত যে এই আইটেমটি মুছে ফেলতে চান",
+    "no": "না, বাতিল করুন",
+    "yes": "হ্যাঁ",
+    "empty": "আপনার উইশলিস্ট নেই।",
+    "wrong": "কিছু ভুল হয়েছে"
+  },
+  "cart": {
+    "empty": "আপনার কার্ট নেই।",
+    "checkout": "চেকআউট",
+    "deleteMessage": "আপনি কি নিশ্চিত যে এই আইটেমটি মুছে ফেলতে চান"
+  },
+  "deleteModal": {
+    "no": "না, বাতিল করুন",
+    "yes": "হ্যাঁ",
+    "close": "মোডাল বন্ধ করুন"
+  },
+  "currency": "৳",
+  "stock": {
+    "rightNow": "স্টক এখনই শেষ হয়েছে"
+  },
+  "auth": {
+    "login": "দয়া করে প্রথমে লগইন করুন"
+  },
+  "checkout": {
+    "labels": {
+      "firstName": "প্রথম নাম",
+      "lastName": "শেষ নাম",
+      "phone": "ফোন নম্বর",
+      "email": "ইমেল ঠিকানা",
+      "city": "শহর",
+      "accountNumber": "অ্যাকাউন্ট নাম্বার",
+      "transactionId": "লেনদেন আইডি",
+      "shippingAddress": "শিপিং ঠিকানা"
+    },
+    "errorMessages": {
+      "firstName": "প্রথম নাম প্রয়োজন",
+      "lastName": "শেষ নাম প্রয়োজন",
+      "phone": "ফোন নম্বর প্রয়োজন",
+      "email": "ইমেল প্রয়োজন",
+      "city": "শহর প্রয়োজন",
+      "accountNumber": "অ্যাকাউন্ট নাম্বার প্রয়োজন",
+      "transactionId": "লেনদেন আইডি প্রয়োজন"
+    },
+    "orderSummary": {
+      "title": "অর্ডার সারাংশ",
+      "loadingText": "লোড হচ্ছে",
+      "orderBtn": "অর্ডার করুন",
+      "agreementInput": {
+        "label": "আমি একমত",
+        "linkText": "শর্তাবলী এবং শর্তাবলী",
+        "errorMessage": "আপনাকে শর্তাবলী এবং শর্তাবলী গ্রহণ করতে হবে"
+      },
+      "orderProductLists": {
+        "noProductsText": "কোন পণ্য পাওয়া যায়নি",
+        "subtotalLabel": "উপসাগর",
+        "shippingLabel": "শিপিং",
+        "freeShippingText": "ফ্রি",
+        "totalLabel": "মোট"
+      }
+    }
+  },
+  "confirmOrder": {
+    "orderNumber": "অর্ডার #",
+    "productList": {
+      "title": "পণ্য তালিকা",
+      "notFound": "পণ্য পাওয়া যায়নি"
+    },
+    "summary": {
+      "title": "সারাংশ",
+      "subtotal": "মোট",
+      "discount": "ছাড়",
+      "shipping": "শিপিং",
+      "total": "মোট"
+    },
+    "shipping": {
+      "title": "শিপিং",
+      "carrierDetails": "ক্যারিয়ারের বিস্তারিত দেখুন",
+      "deliveryWith24Hours": "২৪ ঘন্টার মধ্যে ডেলিভারি"
+    },
+    "customer": {
+      "title": "গ্রাহক",
+      "previousOrders": "পূর্ববর্তী অর্ডার",
+      "name": "নাম",
+      "email": "ইমেইল",
+      "phone": "ফোন",
+      "shippingAddress": "শিপিং ঠিকানা",
+      "billingAddress": "বিলিং ঠিকানা"
+    },
+    "downloadBtn": "ডাউনলোড",
+    "invoice": {
+      "company": {
+        "name": "এলডাব্লিউএস-কার্ট পিএলসি",
+        "email": "sales@lws-kart.com",
+        "phone": "+৮৮০১৪০২২০০৬৯৮",
+        "vat": "৮৬৫৭৬৭১২১২"
+      },
+      "billTo": "পরিশোধ করতে :",
+      "invoice": {
+        "number": "চালান নম্বর :",
+        "date": "চালানের তারিখ :"
+      },
+      "table": {
+        "headers": {
+          "items": "আইটেমস",
+          "quantity": "পরিমাণ",
+          "price": "মূল্য",
+          "amount": "পরিমাণ",
+          "subtotal": "মোট পরিমাণ",
+          "tax": "কর",
+          "discount": "ডিসকাউন্ট",
+          "total": "মোট"
+        },
+        "footer": "আমাদের সাথে থাকার জন্য আপনাকে ধন্যবাদ!"
+      }
+    }
+  },
+  "footer": {
+    "copyright": "© LWSKart - সর্বস্বত্ব সংরক্ষিত",
+    "text": "অতুলনীয় আরাম এবং চিরকালীন সৌন্দর্যের সাথে আপনার বাড়িকে রূপান্তর করুন",
+    "solution": "সমাধানসমূহ",
+    "support": "সহায়তা",
+    "links": "উপকারী লিংক",
+    "company": "কোম্পানি",
+    "marketing": "বিপণন",
+    "analytics": "বিশ্লেষণ",
+    "commerce": "বাণিজ্য",
+    "insights": "অন্তর্দৃষ্টি",
+    "pricing": "মূল্য নির্ধারণ",
+    "documentation": "ডকুমেন্টেশন",
+    "guides": "গাইড",
+    "api": "এপিআই স্ট্যাটাস"
+  }
+}
